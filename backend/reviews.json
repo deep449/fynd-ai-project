@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1765132591.154313",
+    "user_rating": 5,
+    "user_review": "Goog in everything",
+    "ai_response": "Error generating response: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]",
+    "ai_summary": "Unable to generate summary",
+    "ai_recommended_action": "Unable to generate action",
+    "timestamp": "2025-12-08T00:06:31.154579",
+    "status": "pending"
+  },
+  {
+    "id": "1765133545.728975",
+    "user_rating": 3,
+    "user_review": "Average Experience and you can improve",
+    "ai_response": "Error generating response: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]",
+    "ai_summary": "Unable to generate summary",
+    "ai_recommended_action": "Unable to generate action",
+    "timestamp": "2025-12-08T00:22:25.728995",
+    "status": "pending"
+  }
+]
